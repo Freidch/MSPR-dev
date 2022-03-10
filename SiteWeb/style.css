@@ -65,3 +65,8 @@ p
     top: 80%;
     right: 5%;
 }
+
+@font-face {
+    font-family: 'MaSuperPolice';
+    src: url('Roboto-Black.ttf');
+}
